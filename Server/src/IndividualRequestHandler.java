@@ -167,7 +167,7 @@ public class IndividualRequestHandler implements Runnable {
 			e.printStackTrace();
 		}
 		
-		System.out.println("Server got request " + request);
+		System.out.println("Server got request " + request + " on port " + this.parent.getPort());
 		
 		// In functie de comanda primita, executam o functie anume...
 		if (request.equals("stop")) {

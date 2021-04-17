@@ -1,105 +1,104 @@
-Booked CampNou from Barcelona from month 2 with duration 2 months! -->      Initial: 2, Final: 1 from port 60 AT STEP 1
-Added ipIRAnDAgyg for city Berlin with 4 free positions from port 50 AT STEP 2 (somewhat)
-Booked CasaMila from Barcelona from month 5 with duration 6 months! -->      Initial: 3, Final: 2 from port 60 AT STEP 3
-Booked Akershus from Oslo from month 8 with duration 1 months! -->      Initial: 2, Final: 1 from port 90 AT STEP 4
-Booked Vigeland from Oslo from month 5 with duration 2 months! -->      Initial: 1, Final: 0 from port 90 AT STEP 5
-Booked Topkapi from Istanbul from month 1 with duration 12 months! -->      Initial: 4, Final: 3 from port 80 AT STEP 6
-   2 journeys available in Atena from port 70 AT STEP 7 (somewhat)
-        1. Atena -> Acropole from month 1 to 12 with 3 free spots... from port 70 AT STEP 8 (somewhat)
-        2. Atena -> Olympieion from month 2 to 9 with 2 free spots... from port 70 AT STEP 9 (somewhat)
-Booked CampNou from Barcelona from month 2 with duration 8 months! -->      Initial: 1, Final: 0 from port 60 AT STEP 10
-Sorry, but CampNou from Barcelona is not available anymore... from port 60 AT STEP 11
-Booked Dolmabahce from Istanbul from month 1 with duration 3 months! -->      Initial: 3, Final: 2 from port 80 AT STEP 12
-Added IYhYkHq for city Oslo with 4 free positions from port 90 AT STEP 13 (somewhat)
-Booked Acropole from Atena from month 1 with duration 1 months! -->      Initial: 3, Final: 2 from port 70 AT STEP 14
-Added syBrCNVOwrnGHt for city Berlin with 3 free positions from port 50 AT STEP 15 (somewhat)
-Sorry, but CampNou from Barcelona is not available anymore... from port 60 AT STEP 16
-Booked Olympieion from Atena from month 2 with duration 3 months! -->      Initial: 2, Final: 1 from port 70 AT STEP 17
-Booked Akershus from Oslo from month 8 with duration 2 months! -->      Initial: 1, Final: 0 from port 90 AT STEP 18
-Sorry, but Vigeland from Oslo is not available anymore... from port 90 AT STEP 19
-   4 journeys available in Berlin from port 50 AT STEP 20 (somewhat)
-        1. Berlin -> Brandenburg from month 5 to 7 with 2 free spots... from port 50 AT STEP 21 (somewhat)
-        2. Berlin -> Parliament from month 6 to 9 with 2 free spots... from port 50 AT STEP 22 (somewhat)
-        3. Berlin -> ipIRAnDAgyg from month 11 to 11 with 4 free spots... from port 50 AT STEP 23 (somewhat)
-Sorry, but Akershus from Oslo is not available anymore... from port 90 AT STEP 24
-        4. Berlin -> syBrCNVOwrnGHt from month 1 to 11 with 3 free spots... from port 50 AT STEP 25 (somewhat)
-Booked CasaMila from Barcelona from month 5 with duration 3 months! -->      Initial: 2, Final: 1 from port 60 AT STEP 26
-Booked Brandenburg from Berlin from month 5 with duration 2 months! -->      Initial: 2, Final: 1 from port 50 AT STEP 27
-Added qxiLiVhG for city Barcelona with 2 free positions from port 60 AT STEP 28 (somewhat)
-Booked ipIRAnDAgyg from Berlin from month 11 with duration 1 months! -->      Initial: 4, Final: 3 from port 50 AT STEP 29
-Booked Brandenburg from Berlin from month 5 with duration 1 months! -->      Initial: 1, Final: 0 from port 50 AT STEP 30
-Booked Dolmabahce from Istanbul from month 1 with duration 1 months! -->      Initial: 2, Final: 1 from port 80 AT STEP 32
-Booked Topkapi from Istanbul from month 1 with duration 3 months! -->      Initial: 3, Final: 2 from port 80 AT STEP 34
-Booked syBrCNVOwrnGHt from Berlin from month 1 with duration 4 months! -->      Initial: 3, Final: 2 from port 50 AT STEP 31
-Booked Parliament from Berlin from month 6 with duration 3 months! -->      Initial: 2, Final: 1 from port 50 AT STEP 35
-Booked Olympieion from Atena from month 2 with duration 7 months! -->      Initial: 1, Final: 0 from port 70 AT STEP 33
-Booked IYhYkHq from Oslo from month 1 with duration 5 months! -->      Initial: 4, Final: 3 from port 90 AT STEP 36
-Sorry, but Brandenburg from Berlin is not available anymore... from port 50 AT STEP 37
-   2 journeys available in Istanbul from port 80 AT STEP 38 (somewhat)
-        1. Istanbul -> Topkapi from month 1 to 12 with 2 free spots... from port 80 AT STEP 39 (somewhat)
-Sorry, but JaXinP from Atena is not available anymore... from port 70 AT STEP 92
-Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 91
-Booked dZsronZ from Atena from month 9 with duration 1 months! -->      Initial: 2, Final: 1 from port 70 AT STEP 90
-Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 89
-Added FaDEvVERlRMqgC for city Istanbul with 3 free positions from port 80 AT STEP 88 (somewhat)
-Added UBxjKbsOQgEB for city Barcelona with 2 free positions from port 60 AT STEP 87 (somewhat)
-Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 86
-Sorry, but IYhYkHq from Oslo is not available anymore... from port 90 AT STEP 85
-Sorry, but Akershus from Oslo is not available anymore... from port 90 AT STEP 84
-Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 83
-Booked ipIRAnDAgyg from Berlin from month 11 with duration 1 months! -->      Initial: 3, Final: 2 from port 50 AT STEP 82
-Sorry, but JaXinP from Atena is not available anymore... from port 70 AT STEP 81
-Sorry, but IYhYkHq from Oslo is not available anymore... from port 90 AT STEP 80
-Sorry, but syBrCNVOwrnGHt from Berlin is not available anymore... from port 50 AT STEP 79
-Booked qxiLiVhG from Barcelona from month 8 with duration 1 months! -->      Initial: 2, Final: 1 from port 60 AT STEP 78
-Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 77
-Added NKmVrRIN for city Oslo with 5 free positions from port 90 AT STEP 76 (somewhat)
-Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 75
+Booked Dolmabahce from Istanbul from month 1 with duration 1 months! -->      Initial: 3, Final: 2 from port 80 AT STEP 1
+Booked Vigeland from Oslo from month 5 with duration 1 months! -->      Initial: 1, Final: 0 from port 90 AT STEP 2
+Booked CasaMila from Barcelona from month 5 with duration 4 months! -->      Initial: 3, Final: 2 from port 60 AT STEP 3
+Booked Dolmabahce from Istanbul from month 1 with duration 3 months! -->      Initial: 2, Final: 1 from port 80 AT STEP 4
+Booked Brandenburg from Berlin from month 5 with duration 3 months! -->      Initial: 2, Final: 1 from port 50 AT STEP 5
+Booked Olympieion from Atena from month 2 with duration 3 months! -->      Initial: 2, Final: 1 from port 70 AT STEP 6
+Booked Acropole from Atena from month 1 with duration 1 months! -->      Initial: 3, Final: 2 from port 70 AT STEP 7
+Booked Parliament from Berlin from month 6 with duration 2 months! -->      Initial: 2, Final: 1 from port 50 AT STEP 8
+Booked Brandenburg from Berlin from month 5 with duration 1 months! -->      Initial: 1, Final: 0 from port 50 AT STEP 9
+Booked CasaMila from Barcelona from month 5 with duration 1 months! -->      Initial: 2, Final: 1 from port 60 AT STEP 10
+Sorry, but Brandenburg from Berlin is not available anymore... from port 50 AT STEP 11
+Added yrrIiuFghmgOX for city Barcelona with 2 free positions from port 60 AT STEP 12 (somewhat)
+   2 journeys available in Istanbul from port 80 AT STEP 13 (somewhat)
+        1. Istanbul -> Topkapi from month 1 to 12 with 4 free spots... from port 80 AT STEP 14 (somewhat)
+        2. Istanbul -> Dolmabahce from month 1 to 5 with 1 free spots... from port 80 AT STEP 15 (somewhat)
+   2 journeys available in Oslo from port 90 AT STEP 16 (somewhat)
+        1. Oslo -> Vigeland from month 5 to 12 with 0 free spots... from port 90 AT STEP 17 (somewhat)
+Booked Olympieion from Atena from month 2 with duration 1 months! -->      Initial: 1, Final: 0 from port 70 AT STEP 18
+        2. Oslo -> Akershus from month 8 to 10 with 2 free spots... from port 90 AT STEP 19 (somewhat)
+Booked Dolmabahce from Istanbul from month 1 with duration 1 months! -->      Initial: 1, Final: 0 from port 80 AT STEP 20
+Sorry, but Brandenburg from Berlin is not available anymore... from port 50 AT STEP 21
+Added nScvgBQhkYUp for city Oslo with 1 free positions from port 90 AT STEP 22 (somewhat)
+Booked Topkapi from Istanbul from month 1 with duration 6 months! -->      Initial: 4, Final: 3 from port 80 AT STEP 23
+Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 24
+Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 25
+Booked Parliament from Berlin from month 6 with duration 1 months! -->      Initial: 1, Final: 0 from port 50 AT STEP 26
+Booked yrrIiuFghmgOX from Barcelona from month 4 with duration 1 months! -->      Initial: 2, Final: 1 from port 60 AT STEP 27
+Booked Akershus from Oslo from month 8 with duration 1 months! -->      Initial: 2, Final: 1 from port 90 AT STEP 28
+Sorry, but Brandenburg from Berlin is not available anymore... from port 50 AT STEP 29
+Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 30
+Booked CasaMila from Barcelona from month 5 with duration 1 months! -->      Initial: 1, Final: 0 from port 60 AT STEP 31
+Sorry, but Parliament from Berlin is not available anymore... from port 50 AT STEP 32
+Added LoDoEbjHDS for city Oslo with 5 free positions from port 90 AT STEP 34 (somewhat)
+Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 35
+Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 36
+Sorry, but Vigeland from Oslo is not available anymore... from port 90 AT STEP 33
+Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 37
+Booked Akershus from Oslo from month 8 with duration 2 months! -->      Initial: 1, Final: 0 from port 90 AT STEP 38
+Added TMPdGh for city Istanbul with 3 free positions from port 80 AT STEP 39 (somewhat)
+Booked Acropole from Atena from month 1 with duration 1 months! -->      Initial: 2, Final: 1 from port 70 AT STEP 40
+Booked LoDoEbjHDS from Oslo from month 5 with duration 2 months! -->      Initial: 5, Final: 4 from port 90 AT STEP 41
+Booked CampNou from Barcelona from month 2 with duration 4 months! -->      Initial: 2, Final: 1 from port 60 AT STEP 42
+Added BLPuADJS for city Berlin with 4 free positions from port 50 AT STEP 43 (somewhat)
+   3 journeys available in Barcelona from port 60 AT STEP 44 (somewhat)
+   2 journeys available in Atena from port 70 AT STEP 45 (somewhat)
+        1. Atena -> Acropole from month 1 to 12 with 1 free spots... from port 70 AT STEP 46 (somewhat)
+        2. Atena -> Olympieion from month 2 to 9 with 0 free spots... from port 70 AT STEP 47 (somewhat)
+Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 49
+        1. Barcelona -> CampNou from month 2 to 10 with 1 free spots... from port 60 AT STEP 50 (somewhat)
+        2. Barcelona -> CasaMila from month 5 to 11 with 0 free spots... from port 60 AT STEP 51 (somewhat)
+        3. Barcelona -> yrrIiuFghmgOX from month 4 to 6 with 1 free spots... from port 60 AT STEP 52 (somewhat)
+Booked Topkapi from Istanbul from month 1 with duration 1 months! -->      Initial: 3, Final: 2 from port 80 AT STEP 53
+Added kBOyc for city Istanbul with 1 free positions from port 80 AT STEP 48 (somewhat)
+Added QTKwPTO for city Barcelona with 3 free positions from port 60 AT STEP 54 (somewhat)
+Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 55
+Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 56
+Booked yrrIiuFghmgOX from Barcelona from month 4 with duration 2 months! -->      Initial: 1, Final: 0 from port 60 AT STEP 57
+Booked TMPdGh from Istanbul from month 8 with duration 2 months! -->      Initial: 3, Final: 2 from port 80 AT STEP 58
+Sorry, but Akershus from Oslo is not available anymore... from port 90 AT STEP 59
+Booked QTKwPTO from Barcelona from month 11 with duration 1 months! -->      Initial: 3, Final: 2 from port 60 AT STEP 60
+Sorry, but Akershus from Oslo is not available anymore... from port 90 AT STEP 61
+Booked Acropole from Atena from month 1 with duration 3 months! -->      Initial: 1, Final: 0 from port 70 AT STEP 62
+Booked LoDoEbjHDS from Oslo from month 5 with duration 4 months! -->      Initial: 4, Final: 3 from port 90 AT STEP 63
+Booked Topkapi from Istanbul from month 1 with duration 1 months! -->      Initial: 2, Final: 1 from port 80 AT STEP 65
+Booked LoDoEbjHDS from Oslo from month 5 with duration 2 months! -->      Initial: 3, Final: 2 from port 90 AT STEP 64
+Booked LoDoEbjHDS from Oslo from month 5 with duration 1 months! -->      Initial: 2, Final: 1 from port 90 AT STEP 66
+Sorry, but Akershus from Oslo is not available anymore... from port 90 AT STEP 67
+Added meojyFqNhI for city Atena with 5 free positions from port 70 AT STEP 68 (somewhat)
+Added TJvmjOcmiUctMX for city Atena with 4 free positions from port 70 AT STEP 69 (somewhat)
+Booked QTKwPTO from Barcelona from month 11 with duration 1 months! -->      Initial: 2, Final: 1 from port 60 AT STEP 70
+Sorry, but Acropole from Atena is not available anymore... from port 70 AT STEP 71
+Sorry, but Acropole from Atena is not available anymore... from port 70 AT STEP 72
+Booked meojyFqNhI from Atena from month 2 with duration 2 months! -->      Initial: 5, Final: 4 from port 70 AT STEP 73
 Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 74
-Booked tfimFiJHrmelt from Istanbul from month 4 with duration 3 months! -->      Initial: 4, Final: 3 from port 80 AT STEP 73
-Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 72
-Added dZsronZ for city Atena with 2 free positions from port 70 AT STEP 71 (somewhat)
-Sorry, but CasaMila from Barcelona is not available anymore... from port 60 AT STEP 70
-Sorry, but Akershus from Oslo is not available anymore... from port 90 AT STEP 69
-Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 68
-Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 67
-Sorry, but Parliament from Berlin is not available anymore... from port 50 AT STEP 66
-Sorry, but Acropole from Atena is not available anymore... from port 70 AT STEP 65
-Added tfimFiJHrmelt for city Istanbul with 4 free positions from port 80 AT STEP 64 (somewhat)
-   3 journeys available in Barcelona from port 60 AT STEP 63 (somewhat)
-Booked CasaMila from Barcelona from month 5 with duration 3 months! -->      Initial: 1, Final: 0 from port 60 AT STEP 62
-        1. Barcelona -> CampNou from month 2 to 10 with 0 free spots... from port 60 AT STEP 94 (somewhat)
-Sorry, but Parliament from Berlin is not available anymore... from port 50 AT STEP 61
-Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 60
-Booked Topkapi from Istanbul from month 1 with duration 8 months! -->      Initial: 1, Final: 0 from port 80 AT STEP 59
-Sorry, but JaXinP from Atena is not available anymore... from port 70 AT STEP 58
-Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 57
-Sorry, but Acropole from Atena is not available anymore... from port 70 AT STEP 56
-Booked Acropole from Atena from month 1 with duration 5 months! -->      Initial: 1, Final: 0 from port 70 AT STEP 55
-Sorry, but IYhYkHq from Oslo is not available anymore... from port 90 AT STEP 54
-Booked syBrCNVOwrnGHt from Berlin from month 1 with duration 1 months! -->      Initial: 1, Final: 0 from port 50 AT STEP 53
-Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 52
-Booked JaXinP from Atena from month 11 with duration 1 months! -->      Initial: 1, Final: 0 from port 70 AT STEP 51
-Booked Dolmabahce from Istanbul from month 1 with duration 1 months! -->      Initial: 1, Final: 0 from port 80 AT STEP 50
-Booked IYhYkHq from Oslo from month 1 with duration 1 months! -->      Initial: 1, Final: 0 from port 90 AT STEP 49
-Booked Topkapi from Istanbul from month 1 with duration 2 months! -->      Initial: 2, Final: 1 from port 80 AT STEP 48
-Booked Acropole from Atena from month 1 with duration 5 months! -->      Initial: 2, Final: 1 from port 70 AT STEP 47
-Added JaXinP for city Atena with 1 free positions from port 70 AT STEP 46 (somewhat)
-Booked syBrCNVOwrnGHt from Berlin from month 1 with duration 5 months! -->      Initial: 2, Final: 1 from port 50 AT STEP 45
-Booked IYhYkHq from Oslo from month 1 with duration 3 months! -->      Initial: 2, Final: 1 from port 90 AT STEP 44
-   3 journeys available in Oslo from port 90 AT STEP 43 (somewhat)
-        1. Oslo -> Vigeland from month 5 to 12 with 0 free spots... from port 90 AT STEP 96 (somewhat)
-        2. Oslo -> Akershus from month 8 to 10 with 0 free spots... from port 90 AT STEP 97 (somewhat)
-        3. Oslo -> IYhYkHq from month 1 to 9 with 2 free spots... from port 90 AT STEP 98 (somewhat)
-Sorry, but Brandenburg from Berlin is not available anymore... from port 50 AT STEP 42
-Booked IYhYkHq from Oslo from month 1 with duration 1 months! -->      Initial: 3, Final: 2 from port 90 AT STEP 41
-Booked Parliament from Berlin from month 6 with duration 1 months! -->      Initial: 1, Final: 0 from port 50 AT STEP 40
-        2. Barcelona -> CasaMila from month 5 to 11 with 0 free spots... from port 60 AT STEP 95 (somewhat)
-        2. Istanbul -> Dolmabahce from month 1 to 5 with 1 free spots... from port 80 AT STEP 93 (somewhat)
-        3. Barcelona -> qxiLiVhG from month 8 to 9 with 2 free spots... from port 60 AT STEP 99 (somewhat)
-OVER from port 70 AT STEP 100 (somewhat)
+Sorry, but Dolmabahce from Istanbul is not available anymore... from port 80 AT STEP 75
+Booked kBOyc from Istanbul from month 9 with duration 1 months! -->      Initial: 1, Final: 0 from port 80 AT STEP 76
+Booked CampNou from Barcelona from month 2 with duration 1 months! -->      Initial: 1, Final: 0 from port 60 AT STEP 77
+Added mfAfFvN for city Berlin with 1 free positions from port 50 AT STEP 78 (somewhat)
+Booked mfAfFvN from Berlin from month 2 with duration 1 months! -->      Initial: 1, Final: 0 from port 50 AT STEP 79
+Booked BLPuADJS from Berlin from month 11 with duration 1 months! -->      Initial: 4, Final: 3 from port 50 AT STEP 80
+Sorry, but kBOyc from Istanbul is not available anymore... from port 80 AT STEP 81
+Sorry, but Parliament from Berlin is not available anymore... from port 50 AT STEP 82
+   4 journeys available in Berlin from port 50 AT STEP 83 (somewhat)
+        1. Berlin -> Brandenburg from month 5 to 7 with 0 free spots... from port 50 AT STEP 84 (somewhat)
+        2. Berlin -> Parliament from month 6 to 9 with 0 free spots... from port 50 AT STEP 85 (somewhat)
+        3. Berlin -> BLPuADJS from month 11 to 12 with 2 free spots... from port 50 AT STEP 86 (somewhat)
+        4. Berlin -> mfAfFvN from month 2 to 2 with 0 free spots... from port 50 AT STEP 87 (somewhat)
+Booked BLPuADJS from Berlin from month 11 with duration 1 months! -->      Initial: 2, Final: 1 from port 50 AT STEP 88
+Booked BLPuADJS from Berlin from month 11 with duration 1 months! -->      Initial: 3, Final: 2 from port 50 AT STEP 89
+Booked BLPuADJS from Berlin from month 11 with duration 1 months! -->      Initial: 1, Final: 0 from port 50 AT STEP 90
+Sorry, but Olympieion from Atena is not available anymore... from port 70 AT STEP 91
+Booked TMPdGh from Istanbul from month 8 with duration 1 months! -->      Initial: 2, Final: 1 from port 80 AT STEP 92
+Booked nScvgBQhkYUp from Oslo from month 2 with duration 5 months! -->      Initial: 1, Final: 0 from port 90 AT STEP 93
+Sorry, but CampNou from Barcelona is not available anymore... from port 60 AT STEP 94
+Booked TMPdGh from Istanbul from month 8 with duration 2 months! -->      Initial: 1, Final: 0 from port 80 AT STEP 95
+Booked LoDoEbjHDS from Oslo from month 5 with duration 1 months! -->      Initial: 1, Final: 0 from port 90 AT STEP 96
+Sorry, but Akershus from Oslo is not available anymore... from port 90 AT STEP 97
+Sorry, but CampNou from Barcelona is not available anymore... from port 60 AT STEP 98
+OVER from port 70 AT STEP 99 (somewhat)
+OVER from port 50 AT STEP 100 (somewhat)
+OVER from port 60 AT STEP 101 (somewhat)
+OVER from port 80 AT STEP 102 (somewhat)
 OVER from port 90 AT STEP 103 (somewhat)
-OVER from port 60 AT STEP 102 (somewhat)
-OVER from port 50 AT STEP 101 (somewhat)
-OVER from port 80 AT STEP 104 (somewhat)
 All done...
